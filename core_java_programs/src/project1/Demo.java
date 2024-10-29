@@ -1,4 +1,4 @@
-package day1;
+package project1;
 import java.util.*;
 public class Demo {
 
