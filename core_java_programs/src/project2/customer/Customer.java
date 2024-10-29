@@ -1,4 +1,4 @@
-package project2.Customer;
+package project2.customer;
 
 public class Customer {
 

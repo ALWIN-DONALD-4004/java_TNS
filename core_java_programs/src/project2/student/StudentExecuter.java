@@ -1,4 +1,4 @@
-package project2.Student;
+package project2.student;
 
 public class StudentExecuter {
 

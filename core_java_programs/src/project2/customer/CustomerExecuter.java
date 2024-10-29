@@ -1,6 +1,6 @@
-package project2.Customer;
+package project2.customer;
 
-public class customerExecuter {
+public class CustomerExecuter {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
