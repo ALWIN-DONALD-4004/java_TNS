@@ -4,7 +4,7 @@ public class TaxCalc {
     
     public void calculateTax(User u1) {
     	
-        int Amount = u1.getIncome();
+      //  int Amount = u1.getIncome();
         String Gender = u1.getGender();
         
         if (Gender.equals("female")){  

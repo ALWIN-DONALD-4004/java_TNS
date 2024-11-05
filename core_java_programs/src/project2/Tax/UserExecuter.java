@@ -30,7 +30,7 @@ public class UserExecuter {
 	     
 		System.out.println(u1);
 		
-	
+	s.close();
 		
 
 	}

@@ -1,7 +1,7 @@
 package project1;
 import java.util.*;
-public class Demo {
 
+public class Demo {
 	public static void main(String[] args) {
 //		System.out.println("Hello World");
 //		System.out.print("java programming start");
@@ -11,6 +11,6 @@ public class Demo {
 		b = s.nextInt();
 		c = a+b;
 		System.out.println("Addition of a = "+a+"and b = "+b+" is :"+c);
-		
+		s.close();
 	}
 }
