@@ -1,4 +1,4 @@
-package project2.Tax;
+package project1.Tax;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package project2.employee;
+package project1.employee;
 
 public class EmployeeExecuter {
 	public static void main(String[] args) {

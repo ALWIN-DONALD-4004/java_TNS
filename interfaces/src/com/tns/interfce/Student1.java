@@ -21,7 +21,5 @@ public class Student1 {
 		return "Student1 [cid=" + cid + ", sname=" + sname + "]";
 	}
 	
-	@Override 
-	
 
 }
