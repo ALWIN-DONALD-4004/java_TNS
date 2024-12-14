@@ -1,4 +1,4 @@
- package com.tns.AssignmentOne;
+ package tns.AssignmentOne;
 
 public class StudentExecuter {
 

@@ -1,4 +1,4 @@
-package com.tns.AssignmentThree;
+package tns.AssignmentThree;
 import java.util.*;
 public class Circle {
 	

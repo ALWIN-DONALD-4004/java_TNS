@@ -1,4 +1,4 @@
-package com.tns.AssignmentTwo;
+package tns.AssignmentTwo;
 
 public class Student {
 	Student() {

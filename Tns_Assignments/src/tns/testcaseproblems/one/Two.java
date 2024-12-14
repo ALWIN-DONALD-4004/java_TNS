@@ -1,4 +1,4 @@
-package com.tns.testcaseproblems.one;
+package tns.testcaseproblems.one;
 import java.util.*;
 
 public class Two {

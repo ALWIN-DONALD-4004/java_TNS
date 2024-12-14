@@ -1,4 +1,4 @@
-package com.tns.AssignmentTwo;
+package tns.AssignmentTwo;
 
 import java.util.*;
 

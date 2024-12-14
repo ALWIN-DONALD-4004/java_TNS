@@ -1,4 +1,4 @@
-package com.tns.AssignmentFour;
+package tns.AssignmentFour;
 
 public final class Transaction {
 	
