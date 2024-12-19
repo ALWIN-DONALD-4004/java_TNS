@@ -1,4 +1,4 @@
-package com.tns.trycatch;
+package com.tns.coreConcepts.trycatch;
 
 public class TryCatchDemo {
 

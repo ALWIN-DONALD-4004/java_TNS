@@ -1,6 +1,6 @@
-package com.tns.array.intro;
+package com.tns.coreConcepts.array.intro;
 import java.util.*;
-public class Intro {
+public class Array {
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
@@ -14,6 +14,8 @@ public class Intro {
 		
 		int sum = score[0] + score[1]+ score[2]+ score[3]+ score[4];
 		System.out.println(sum);
+		
+		sc.close();
 	}
 
 }
